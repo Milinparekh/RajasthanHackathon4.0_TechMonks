@@ -1,0 +1,1 @@
+this code is to be run in the powershell of raspberry pi or terminal of raspberry pi and then the pi board wil start to send the data into the server specified,using th APIP key to cloud or any specific IP if into any local network.

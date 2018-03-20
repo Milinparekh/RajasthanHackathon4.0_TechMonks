@@ -1,0 +1,3 @@
+this text is for  letting u know that if  some one has hit you in the car or someone has hit your car when you are not the one riving it,or your near by..
+
+so this  code works with the thingspeak cloud API and shares the data through that.

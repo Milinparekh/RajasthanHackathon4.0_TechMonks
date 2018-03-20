@@ -1,0 +1,2 @@
+this  is the main server file which includes the classficiation type conversion and then proper allocation of the raw data into
+classes and geofences belonging to it, basically it sne ds the data to the specffic ip or any cloud space throuigh API key..
